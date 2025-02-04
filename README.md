@@ -1,7 +1,7 @@
 # hackerrank-python
 Python codes
 <br>
-<s>(03/02/2025):</s> Hello, World! Using Python
+<b>(03/02/2025):</b> Hello, World! Using Python
 <br>
 (03/02/2025): if-else Using Python
 <br>
