@@ -7,3 +7,6 @@ Python codes
 <br>
 (04/02/2025): Adding and substracting two numbers using Python
 <br>
+(05/02/2025): DIviding float and int Using Python 
+<br>
+(06/02/2025): loop Using Python
